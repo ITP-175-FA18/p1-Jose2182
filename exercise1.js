@@ -13,7 +13,10 @@ let customersArr = [
 console.log('Step 1 create a displayBalance function');
 // Create a function named displayBalance that returns balance as dollars and cents
 // when you pass the Customer ID as an argument
-
+  customers1'Ichigo','Kurosaki',ID 23567,Balance  153677345],
+  customers2'Gin','Ichimaru',ID 1234, Balance 1235412356],
+  customers3'Shunsui','Kyoraku',  ID 1531,  Balance 65432467],
+  customers4'Kisuke','Urahara',ID 543,   Balance 63463723562]
 
 
 
@@ -28,7 +31,10 @@ console.log('Step 2 create a getCustomer function');
 // by passing customer ID as an argument and outputs their
 // first name, last name, customer ID, and balance 
 
-
+ customers1'Ichigo','Kurosaki',ID 23567,Balance  1536773.45;
+ customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+ customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
+ customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
 
 
 
@@ -42,10 +48,10 @@ console.log(getCustomer(543));
 console.log('Step 3 create a largestBalance function');
 // Create a function named largestBalance that determines who has the largest balance
 // and returns the customer ID
-
-
-
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -65,14 +71,10 @@ console.log('Step 4 create a getAllCustomers function');
 // Hint: You can take advantage of you getCustomer function.
 
 
-
-
-
-
-
-
-
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -89,16 +91,10 @@ console.log('Step 5 add a new element to customerArr');
 // Kisuke Urahara title is Shopkeeper
 
 
-
-
-
-
-
-
-
-
-
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -131,11 +127,6 @@ console.log(getAllCustomers(customersObj));
 
 
 
-
-
-
-
-
 ///////////////////// Step 07 /////////////////////
 console.log('Step 7 update customer balances');
 // Update the balance to of each customer to amounts of your chosing
@@ -143,11 +134,10 @@ console.log('Step 7 update customer balances');
 
 
 
-
-
-
-
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -157,17 +147,10 @@ console.log('Step 8 find out who has the largest balance currently');
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 ///////////////////// Step 09 /////////////////////

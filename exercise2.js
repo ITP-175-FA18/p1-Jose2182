@@ -40,7 +40,10 @@ console.log('Step 1 create a displayBalance function');
 // Create a function named displayBalance that returns balance as dollars and cents
 // when you pass the Customer ID as an argument
 
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -55,7 +58,10 @@ console.log('Step 2 create a getCustomer function');
 // first name, last name, customerID, and balance 
 
 
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -69,7 +75,10 @@ console.log('Step 3 create a largestBalance function');
 // Create a function named argestBalance that determines who has the largest balance
 // and returns the customerID
 
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -94,7 +103,10 @@ console.log('Step 4 create a getAllCustomers function');
 
 
 
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -118,7 +130,10 @@ console.log('Step 5 add a new element to customerObj');
 
 
 
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
@@ -149,25 +164,16 @@ console.log('Step 6 add new customers to customerObj');
 console.log(getAllCustomers(customersObj));
 
 
-
-
-
-
-
-
-
-
+customers4'Kisuke','Urahara',ID 543,   Balance 634637235.62;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers2'Gin','Ichimaru',ID 1234, Balance 12354123.56;
+customers3'Shunsui','Kyoraku',  ID 1531,  Balance 654324.67;
 
 
 
 ///////////////////// Step 07 /////////////////////
 console.log('Step 7 update customer balances');
 // Update the balance to of each customer to amounts of your chosing
-
-
-
-
-
 
 
 
@@ -185,29 +191,12 @@ console.log('Step 8 find out who has the largest balance currently');
 
 
 
-
-
-
-
-
-
-
-
-
 ///////////////////// Step 09 /////////////////////
 console.log('Step 9 reset the customerIDs');
 // Write a function that sorts the customers alphabetically
 // by last name and gives each customer a new customerID
 // starting at 100.
 // Gin Ichimaru will now have customerID 100 and Ichigo Kurosaki 101
-
-
-
-
-
-
-
-
 
 
 
